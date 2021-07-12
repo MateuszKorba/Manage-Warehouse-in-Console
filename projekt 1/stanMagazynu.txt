@@ -1,0 +1,18 @@
+Lista Osob: 
+Jan Kowalski ul Czerniakowska 34 1999-05-06 1999-05-06
+Marek Andrzejewski ul Księcia Bolesława 12 1969-02-21 1969-02-21
+Kuba Owczarek ul Moszczenicka 56 1972-01-11 1972-01-11
+Piotr Zych ul Zielonej Gęsi 74 1977-10-07 1977-10-07
+Zuzanna  Kania ul Górnośląska 45 1983-01-14 1983-01-14
+
+Lista pomieszczen: 
+pomieszczenie o nr 1 o powierzchni 64 metrow szesciennych nalezy do Jan Kowalski
+pomieszczenie o nr 2 o powierzchni 125 metrow szesciennych nalezy do Jan Kowalski
+pomieszczenie o nr 3 o powierzchni 216 metrow szesciennych nalezy do Marek Andrzejewski
+pomieszczenie o nr 4 o powierzchni 343 metrow szesciennych nalezy do Kuba Owczarek
+pomieszczenie o nr 5 o powierzchni 125 metrow szesciennych nalezy do Piotr Zych
+pomieszczenie o nr 6 o powierzchni 216 metrow szesciennych nalezy do Jan Kowalski
+pomieszczenie o nr 7 o powierzchni 216 metrow szesciennych nie nalezy do nikogo 
+pomieszczenie o nr 8 o powierzchni 216 metrow szesciennych nie nalezy do nikogo 
+
+Przedmioty: 
